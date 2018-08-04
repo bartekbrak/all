@@ -1,0 +1,126 @@
+[submodule "all"]
+	path = all
+	url = https://github.com/bartekbrak/all
+[submodule "anki"]
+	path = anki
+	url = https://github.com/bartekbrak/anki
+[submodule "bartekbrak.github.io"]
+	path = bartekbrak.github.io
+	url = https://github.com/bartekbrak/bartekbrak.github.io
+[submodule "bisect-kata"]
+	path = bisect-kata
+	url = https://github.com/bartekbrak/bisect-kata
+[submodule "bowerbird"]
+	path = bowerbird
+	url = https://github.com/bartekbrak/bowerbird
+[submodule "brak-ansible-devel"]
+	path = brak-ansible-devel
+	url = https://github.com/bartekbrak/brak-ansible-devel
+[submodule "brak_hooks"]
+	path = brak_hooks
+	url = https://github.com/bartekbrak/brak_hooks
+[submodule "cache_long_running_bash_completion_functions"]
+	path = cache_long_running_bash_completion_functions
+	url = https://github.com/bartekbrak/cache_long_running_bash_completion_functions
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/bartekbrak/dotfiles
+[submodule "dwlgn"]
+	path = dwlgn
+	url = https://github.com/bartekbrak/dwlgn
+[submodule "dynamic_term_backgroun_per_folder"]
+	path = dynamic_term_backgroun_per_folder
+	url = https://github.com/bartekbrak/dynamic_term_backgroun_per_folder
+[submodule "gwaith"]
+	path = gwaith
+	url = https://github.com/bartekbrak/gwaith
+[submodule "gwaith-demo"]
+	path = gwaith-demo
+	url = https://github.com/bartekbrak/gwaith-demo
+[submodule "hsbot"]
+	path = hsbot
+	url = https://github.com/bartekbrak/hsbot
+[submodule "ipa.brak.me"]
+	path = ipa.brak.me
+	url = https://github.com/bartekbrak/ipa.brak.me
+[submodule "kinro"]
+	path = kinro
+	url = https://github.com/bartekbrak/kinro
+[submodule "lant"]
+	path = lant
+	url = https://github.com/bartekbrak/lant
+[submodule "learn_sticky_bit"]
+	path = learn_sticky_bit
+	url = https://github.com/bartekbrak/learn_sticky_bit
+[submodule "library_of_things"]
+	path = library_of_things
+	url = https://github.com/bartekbrak/library_of_things
+[submodule "map"]
+	path = map
+	url = https://github.com/bartekbrak/map
+[submodule "mydev"]
+	path = mydev
+	url = https://github.com/bartekbrak/mydev
+[submodule "pisze"]
+	path = pisze
+	url = https://github.com/bartekbrak/pisze
+[submodule "prettyrepr"]
+	path = prettyrepr
+	url = https://github.com/bartekbrak/prettyrepr
+[submodule "pyczatkujacy"]
+	path = pyczatkujacy
+	url = https://github.com/bartekbrak/pyczatkujacy
+[submodule "pylight5"]
+	path = pylight5
+	url = https://github.com/bartekbrak/pylight5
+[submodule "pytest-pycodestyle"]
+	path = pytest-pycodestyle
+	url = https://github.com/bartekbrak/pytest-pycodestyle
+[submodule "pytest_flask_sqlalchemy_skeleton"]
+	path = pytest_flask_sqlalchemy_skeleton
+	url = https://github.com/bartekbrak/pytest_flask_sqlalchemy_skeleton
+[submodule "ramdb"]
+	path = ramdb
+	url = https://github.com/bartekbrak/ramdb
+[submodule "sltns"]
+	path = sltns
+	url = https://github.com/bartekbrak/sltns
+[submodule "szuflada"]
+	path = szuflada
+	url = https://github.com/bartekbrak/szuflada
+[submodule "tda-600"]
+	path = tda-600
+	url = https://github.com/bartekbrak/tda-600
+[submodule "terminator_links_in_pycharm"]
+	path = terminator_links_in_pycharm
+	url = https://github.com/bartekbrak/terminator_links_in_pycharm
+[submodule "tesco_pl_scraper"]
+	path = tesco_pl_scraper
+	url = https://github.com/bartekbrak/tesco_pl_scraper
+[submodule "trans_now"]
+	path = trans_now
+	url = https://github.com/bartekbrak/trans_now
+[submodule "tvp_schedule"]
+	path = tvp_schedule
+	url = https://github.com/bartekbrak/tvp_schedule
+[submodule "war"]
+	path = war
+	url = https://github.com/bartekbrak/war
+[submodule "wi-sqlalchemy-formatter"]
+	path = wi-sqlalchemy-formatter
+	url = https://github.com/bartekbrak/wi-sqlalchemy-formatter
+[submodule "wibump"]
+	path = wibump
+	url = https://github.com/bartekbrak/wibump
+[submodule "wiersze_do_programistow"]
+	path = wiersze_do_programistow
+	url = https://github.com/bartekbrak/wiersze_do_programistow
+[submodule "win_cycler"]
+	path = win_cycler
+	url = https://github.com/bartekbrak/win_cycler
+[submodule "wordhore"]
+	path = wordhore
+	url = https://github.com/bartekbrak/wordhore
+[submodule "yong"]
+	path = yong
+	url = https://github.com/bartekbrak/yong
