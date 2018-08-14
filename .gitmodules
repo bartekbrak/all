@@ -1,6 +1,3 @@
-[submodule "all"]
-	path = all
-	url = https://github.com/bartekbrak/all
 [submodule "anki"]
 	path = anki
 	url = https://github.com/bartekbrak/anki
