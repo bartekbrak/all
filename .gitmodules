@@ -121,3 +121,9 @@
 [submodule "yong"]
 	path = yong
 	url = https://github.com/bartekbrak/yong
+[submodule "cv"]
+	path = cv
+	url = git@github.com:bartekbrak/cv.git
+[submodule "widze"]
+	path = widze
+	url = git@github.com:bartekbrak/widze.git
